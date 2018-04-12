@@ -2,8 +2,8 @@
 
 ## How to use
 
-- `ctw [status]`
-    - tweet [status].
+- `ctw <status>`
+    - tweet &lt;status&gt;.
     - If no argument is specified, it reads standard input and tweets it.
 - `ctw --regist`
     - Register to ctw. 
