@@ -5,7 +5,7 @@
 - `ctw <status>`
     - tweet &lt;status&gt;.
     - If no argument is specified, it reads standard input and tweets it.
-- `ctw --regist`
+- `ctw --register`
     - Register to ctw. 
 - `ctw --login`
     - Login to ctw
