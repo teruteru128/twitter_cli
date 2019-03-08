@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "curl.h": "c",
+        "twitter.h": "c",
+        "wchar.h": "c",
+        "stdio.h": "c",
+        "oauth.h": "c",
+        "typecheck-gcc.h": "c"
+    }
+}
